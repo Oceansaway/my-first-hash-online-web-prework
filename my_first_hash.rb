@@ -27,4 +27,4 @@ def adding
   shipping_manifest["gun powder"] => 4
 shipping_manifest
 end
-end
+
