@@ -1,7 +1,5 @@
 def my_hash
   pets={"dog" => "Flippy", "cat" => "Sonestra", "rabbit"=>"Wiggles"}
-
-
 end
 
 
@@ -17,7 +15,6 @@ def retrieval
                  }
 
 shipping_manifest["oil paintings"]
-
 end
 
 def adding
@@ -29,4 +26,5 @@ def adding
   shipping_manifest["muskets"] => 2
   shipping_manifest["gun powder"] => 4
 shipping_manifest
+end
 end
